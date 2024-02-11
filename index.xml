@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index version="1" name="Hydromel2008's script">
+  <category name="Text Items and Item Notes/Subtitles">
+    <reapack name="Hydromel-Import_LRC_and_matching_mp3.lua" type="script" desc="Import LRC and matching mp3 (if found) at current playhead position">
+      <metadata>
+        <description> Export item's note selection (or on selected track) as offset by edit cursor time SRT subtitles</description>
+      </metadata>
+    </reapack>
+  </category>
+  <metadata>
+    <link rel="website">https://github.com/hydromel2008/REAPER-ReaScripts/</link>
+  </metadata>
+</index>
