@@ -11,7 +11,7 @@ Access the scripts directly on GitHub: [Hydromel2008's REAPER-ReaScripts](https:
 For a seamless installation experience, you can add this repository to ReaPack's repository list:
 
 1. Open Reaper and navigate to `Extensions` > `ReaPack` > `Manage repositories`.
-2. Click on `Import a repository` and paste the following URL: `https://github.com/hydromel2008/REAPER-ReaScripts/raw/master/index.xml`
+2. Click on `Import a repository` and paste the following URL: `https://raw.githubusercontent.com/hydromel2008/REAPER-ReaScripts/main/index.xml`
 3. Click OK, and ReaPack will handle the rest, allowing you to easily install and update scripts directly from Reaper.
 
 ## Getting Started
